@@ -9,10 +9,10 @@ void setup() {
 }
 
 void loop() {
-  //goalOne();
+  goalOne();
   //goalTwo();
   //goalThree();
-  goalFour();
+  //goalFour();
 
 }
 
@@ -43,10 +43,10 @@ void goalThree(){
 }
 
 void goalFour(){
-  const int specifiedTimeOne = 500;
-  const int specifiedTimeTwo = 40;
-  const int specifiedTimeThree = 100;
-  const int specifiedTimeFour = 2000;
+  const int specifiedTimeOne = 0;
+  const int specifiedTimeTwo = 0;
+  const int specifiedTimeThree = 0;
+  const int specifiedTimeFour = 0;
   
   digitalWrite(ledPin, HIGH);
   delay(specifiedTimeOne);
