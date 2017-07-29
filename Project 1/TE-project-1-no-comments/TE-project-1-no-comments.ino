@@ -1,4 +1,4 @@
-
+//WRITTEN BY: John Mays
 //CONSULT COMMENTED VERSION FOR INSTRUCTIONS
 
 const int ledPin = 2;
