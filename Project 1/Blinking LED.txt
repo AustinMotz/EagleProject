@@ -1,0 +1,15 @@
+Goals:
+1. Make an LED blink for one second, on and off.
+2. Change the amount of time it takes for the LED to blink
+3. Make the LED blink longer on than off
+4. Make the LED blink two different amounts of time
+
+
+Materials: 
+
+ - 220 ohm resistor
+ - LED
+ - Arduino
+ - 2 Wires
+ - USB Cable
+
