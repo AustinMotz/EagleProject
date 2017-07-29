@@ -1,0 +1,15 @@
+Goals:
+1. Make the LED brightness scale with the rotation of the potentiometer
+2. Add an LED and select which of the two is on based on rotation
+
+
+Materials: 
+
+ - LED
+ - 5 Wires
+ - Potentiometer
+ - 220 ohm resistor
+ - 10 Kohm resistor
+ - Arduino
+ - USB Cable
+ - Breadboard
