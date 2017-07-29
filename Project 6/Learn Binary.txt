@@ -1,0 +1,30 @@
+Goals:
+1. Learn the base two number system (binary) using 3 buttons and 7 LEDs
+
+
+Materials: 
+
+ - 7 LEDs
+ - Wires
+ - 3 Push buttons
+ - 220 ohm resistor
+ - 3 10 Kohm resistor
+ - Arduino
+ - USB Cable
+ - Breadboard
+
+How Binary Works:
+ 				    fours place     twos place       ones place
+					1		1                 1
+					4	+	2	+         1 = 7
+
+Binary is a a base two number system, just 0 and 1. This means when you would ordinarly use a 2, you will instead add a new digit. Below is every number from 0 to 7 in decimal and binary.
+
+0 - 000
+1 - 001
+2 - 010
+3 - 011
+4 - 100
+5 - 101
+6 - 110
+7 - 111

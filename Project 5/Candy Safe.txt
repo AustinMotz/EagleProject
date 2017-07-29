@@ -1,0 +1,15 @@
+Goals:
+1. Make a box that sounds an alarm and lights up when the lid is opened
+
+
+Materials: 
+
+ - LEDs
+ - Wires
+ - 220 ohm resistor
+ - 1 Piezo
+ - 1 Box
+ - Conductive Tape
+ - Arduino
+ - USB Cable
+ - Breadboard

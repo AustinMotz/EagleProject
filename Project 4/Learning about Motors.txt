@@ -1,0 +1,14 @@
+Goals:
+1. Learn how a motor works
+2. Power an LED with a motor
+
+Materials:
+1. 1 Motor
+2. 1 Wheel
+3. 1 LED
+4. 1 Diode
+5. BreadBoard
+
+Motors work by moving a shaft with a magnetic field. When you apply power it creates that field and rotates the motor, likewise, if you rotate the motor it will induce a current and you can generate power. You can see this with an LED when you turn the motor the correct direction. Turning it in the opposite direction switches the polarity, and since LEDs are unipolar it will not work when positive is applied to the other side.
+
+Note: The diode will protect the LED by only letting current pass through it in one direction, so if you spin the motor the wrong way it will not appply power to the LED.
