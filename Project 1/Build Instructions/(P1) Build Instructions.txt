@@ -1,0 +1,59 @@
+Today, you will be completing a very simple circuit.
+
+
+BRIEF INTRODUCTION:
+First, you must understand how a breadboard works:
+
+[breadboard.jpeg]
+
+The conductive rails highlighted in blue act as connecting wires in between components that are plugged into them.
+People typically reserve the horizontal rails on the side as power rails, with 5V on the red rail and GND on the black rail.
+
+Next, you will need to understand how the Arduino works.
+
+[arduino.jpeg]
+
+The Arduino is really just a tiny computer.  That long black piece in the middle is the CPU, (the brain) of the system, which controls all of the other components.
+The Arduino can do all sorts of things, because of it's ability to control electricity and compute things.  
+	The Inputs:
+		~There is a cylindrical port, kind of like a PC power port on the side, which supplies power
+		~There is a USB-b port that can take power but also, recieve information from your computer and eventually send it.
+	The Pins:
+		~You will see two rows of small black pins on each side that you will use to connect the Arduino to all sorts of circuits with jumper wires.
+		~The pins on the side closest to the white logo is all digital pins.  Digital means that is either fully on or fully off.  We are only going to 
+	work with pins 2-13 because 1 and 2 are being used for USB information.
+		~The pins on the side that is closest to the big chip are a varitey of different pins.  For now, we will only be using power pins: 5V and GND.
+	Eventually, we will work with the analog pins.
+The Arduino uses five volt power, notice the "5V" printed on the board.  In order to connect anything to the five volts, you need a power wire(usually red) and
+a ground wire(usually black) coming from the "GND" pins.
+
+STARTING THE PROJECT:
+
+1: Plug the Arduino into your computer with the USB cable.  If you see one or two lights blinking, your Arduino is on and working properly.
+
+2: Take a black wire and connect your Arduino's "GND" to the black rail on your breadboard.
+
+3: Take a red wire and connect your Arduino's "5V" to the red rail on your breadboard.
+
+4: Take a red LED and plug it into your breadboard, take note that even though one leg is longer than another, it will still stick in the holes perfectly fine.
+	NOTE: An L.E.D. is a Light Emitting Diode, that passes electricity through a small crystal to create light.  It is the most common form of Light
+	Devices used in electronics to date, and can create a lot of light with very little power.
+
+5: In order to connect your LED to the circuit, take a 220 Ohm Resistor and use it to connect the black rail, or ground, from your breadboard, to the short leg of 
+the LED.
+
+[220-ohm-resistor.jpeg]
+
+6: Lastly, take a wire and connect the long leg of your LED to digital pin 2, and you are ready to begin programming.
+	NOTE: Digital Pin allows the brain of the Arduino to switch it on and off when you tell it to.  The Arduino is basically breaking the flow of electricity and
+	switching the light off through the power of the chip.
+
+7: When you are done, your circuit should look something like this:
+
+[project-1-diagram.jpeg]
+
+"Look carefully at all of your connections and make sure electricity is ready to flow from GND, through the LED, and to your digital pin in a complete circuit."
+
+NOTE: If you would like to see your LED light up before you begin programming, take the wire coming from the long leg of the LED and plug the end of it that was
+originally in the Arduono, into the red rail on the breadboard.  If it doesn't light up, something is wrong.  Check through the steps and see if your friends are able to
+get it working.
