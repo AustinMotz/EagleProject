@@ -1,7 +1,7 @@
 Goals:
 1. Make the LED turn on when the button is pressed
 2. Make the LED turn off when the button is pressed
-3. Push the button and have the LED turn on for 5 seocnds 
+3. Push the button and have the LED turn on for 5 seconds 
 
 Challenge:
 
@@ -10,11 +10,11 @@ Challenge:
 
 Materials: 
 
- - 220 ohm resistor
- - 10 Kohm resistor
- - LED
- - Arduino
- - 5 Wires
- - USB Cable
- - Push Button
- - Breadboard
+ - 1 220 resistor
+ - 1 10K resistor
+ - 1 LED
+ - 1 Push Button
+ - 5 Jumper Wires
+ - 1 Arduino Uno
+ - 1 USB Cable
+ - 1 Breadboard
