@@ -18,8 +18,8 @@ void setup() {  //This is the setup, it runs all of the commands inside of it on
           * as writing the number of the ledPin. Remember? We made ledPin equal to that number 
           * at the top.
           * 
-          * Next, place a comma, and then write 'INPUT' which means we will be sending an 
-          * INPUT signal to the LED on ledPin.  
+          * Next, place a comma, and then write 'OUTPUT' which means we will be sending an 
+          * OUTPUT signal to the LED on ledPin.  
           * 
           * Now, it should look like this:  pinMode(ledPin, INPUT);
           */
