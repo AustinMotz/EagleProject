@@ -26,10 +26,10 @@ void loop(){
    *  comment that one in.  If you wish to run it alone, make sure it is the only one commented in.
    */
   
-  //goalOne();
+  goalOne();
   //goalTwo();
   //goalThree();
-  challenge();
+  //challenge();
 }
 
 void goalOne(){ 
