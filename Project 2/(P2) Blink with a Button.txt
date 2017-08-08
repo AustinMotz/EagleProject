@@ -1,6 +1,7 @@
 Goals:
 1. Make the LED turn on when the button is pressed
 2. Make the LED turn off when the button is pressed
+3. Add another LED and make the LEDs alternate lighting states when the button is pressed 
 
 Challenge:
 
