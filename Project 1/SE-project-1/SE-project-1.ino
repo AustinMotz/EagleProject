@@ -1,10 +1,8 @@
-//WRITTEN BY: John Mays and Austin Motz
+S//WRITTEN BY: John Mays and Austin Motz
 
 const int ledPin = ; /* Look on the arduino to see which pin your LED is plugged into,
                       * Write that number after the equals sign here, your arduino will
-                      * now know that that pin is which pin it will use to talk to the LED.
-                      *
-                      *                      
+                      * now know that that pin is which pin it will use to talk to the LED.                     
                       */
 
                       
