@@ -4,7 +4,6 @@
 const int switchPin = 8;
 const int ledPin = 2;
 const int secondLedPin = 3;
-int previousSwitchState = 0;
 
 void setup(){
   pinMode(switchPin, INPUT);
@@ -22,9 +21,9 @@ void loop(){
 void goalOne(){
   int switchState = digitalRead(switchPin);
   if(switchState == 0){
-    digitalWrite(ledPin, HIGH);
-  }else{
     digitalWrite(ledPin, LOW);
+  }else{
+    digitalWrite(ledPin, HIGH);
   }
 }
 
@@ -47,20 +46,13 @@ void goalThree(){
     digitalWrite(secondLedPin, HIGH);
   }
 }
-
 void challenge(){
   int switchState = digitalRead(switchPin);
-  if(previousSwitchState != switchState){
+  if(switchState != 0){
     digitalWrite(ledPin, HIGH); 
     delay(5000);
-    digitalWrite(ledPin, LOW);    
-  }
-  previousSwitchState = switchState;
-  //if(switchState != 0){
-  //  digitalWrite(ledPin, HIGH); 
-  //  delay(5000);
-  //  digitalWrite(ledPin, LOW);
-  //}
+    digitalWrite(ledPin, LOW);
+  }  
 }
 
 
