@@ -9,7 +9,7 @@ const int ledPin = 3;
 void setup(){
   pinMode(ledPin, OUTPUT);
   
-  //Serial.begin(9600);
+  Serial.begin(9600);
 }
 
 void loop(){
@@ -17,9 +17,8 @@ void loop(){
   int ledValue = potValue / 4;
   analogWrite(ledPin, ledValue);
 
-  //Serial.println("potValue:");
-  //Serial.println(potValue);
-  //Serial.println("ledValue:");
-  
-  //Serial.println(ledValue);
+  Serial.println("potValue:");
+  Serial.println(potValue);
+  Serial.println("ledValue:");
+  Serial.println(ledValue);
 }
