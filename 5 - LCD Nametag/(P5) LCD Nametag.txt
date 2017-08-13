@@ -1,0 +1,14 @@
+Goals:
+1. Learn how i2C communication works
+2. Display your name on the LCD
+3. Make the LCD scroll with a for loop
+
+
+Materials: 
+
+ 
+ 4 - Male to female wires
+ 1 - LCD Display
+ - Arduino
+ - USB Cable
+ - Breadboard

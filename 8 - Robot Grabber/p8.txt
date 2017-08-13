@@ -1,1 +1,0 @@
-RGB LED with knobs and temperature sensor

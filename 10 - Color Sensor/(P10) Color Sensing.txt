@@ -1,0 +1,15 @@
+Goals:
+1. Display the color of an object on the LCD
+2. Make the robot stop on a line on the floor
+3. Make the robot follow a line on the floor
+
+
+Materials: 
+
+ - 1: Robot
+ - 1: LCD Display
+ - 1: Color Sensor
+ - 1: Arduino
+ - 1: Motor Shield
+ - 1: USB Cable
+ - 1: Breadboard

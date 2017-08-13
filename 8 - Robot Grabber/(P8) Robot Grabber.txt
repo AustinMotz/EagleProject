@@ -1,0 +1,17 @@
+Goals:
+1. Open and close the servo with code
+2. Make a button that closes when it is pressed
+3. Make the button toggle
+
+
+Materials: 
+
+ - 1: Robot
+ - 1: Gripper Kit
+ - 1: Servo
+ - 1: Long Wire
+ - 1: Button
+ - 1: Arduino
+ - 1: Motor Shield
+ - 1: USB Cable
+ - 1: Breadboard

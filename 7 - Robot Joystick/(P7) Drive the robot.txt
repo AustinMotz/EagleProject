@@ -1,0 +1,16 @@
+Goals:
+1. Drive the robot forward
+2. Turn right
+3. Turn left
+4. Use the joystick potentiometers to control the power of the motors
+
+
+Materials: 
+
+ - 1: Robot
+ - 1: Long Wire
+ - 2: Joystick potentiometers
+ - 1: Arduino
+ - 1: Motor Shield
+ - 1: USB Cable
+ - 1: Breadboard

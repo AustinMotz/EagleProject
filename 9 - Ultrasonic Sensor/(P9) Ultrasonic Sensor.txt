@@ -1,0 +1,14 @@
+Goals:
+1. Find the distance you are from a wall
+2. Make the robot drive at a wall and stop at 50 cm from it
+
+
+Materials: 
+
+ - 1: Robot
+ - 1: LCD Display
+ - 1: Ultrasonic Sensor
+ - 1: Arduino
+ - 1: Motor Shield
+ - 1: USB Cable
+ - 1: Breadboard
