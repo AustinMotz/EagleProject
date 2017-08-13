@@ -14,3 +14,5 @@ Materials:
  - 1: Motor Shield
  - 1: USB Cable
  - 1: Breadboard
+
+uses adafruit motor shield v2

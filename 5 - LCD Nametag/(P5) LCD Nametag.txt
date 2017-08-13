@@ -12,3 +12,6 @@ Materials:
  - Arduino
  - USB Cable
  - Breadboard
+
+Link to display:
+https://www.amazon.com/FICBOX-Serial-Backlight-Display-Arduino/dp/B071XP6PPT/ref=sr_1_2?ie=UTF8&qid=1502422460&sr=8-2-spons&keywords=arduino+lcd+display&psc=1
