@@ -20,11 +20,11 @@ How Binary Works:
 
 Binary is a a base two number system, just 0 and 1. This means when you would ordinarly use a 2, you will instead add a new digit. Below is every number from 0 to 7 in decimal and binary.
 
-0 - 000
-1 - 001
-2 - 010
-3 - 011
-4 - 100
-5 - 101
-6 - 110
-7 - 111
+0 - 0000
+1 - 0001
+2 - 0010
+3 - 0011
+4 - 0100
+5 - 0101
+6 - 0110
+7 - 0111
