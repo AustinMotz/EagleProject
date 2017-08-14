@@ -15,3 +15,6 @@ Materials:
  - 1: Motor Shield
  - 1: USB Cable
  - 1: Breadboard
+
+motor shield:
+https://www.adafruit.com/product/1438?gclid=Cj0KCQjw8b_MBRDcARIsAKJE7ll0N7m_F3RwPhHulMX03Dm25Oy8Ksw6l3hpv3aclD9QjeG1o83e5fkaAoTlEALw_wcB

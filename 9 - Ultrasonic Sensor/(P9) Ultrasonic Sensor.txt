@@ -12,3 +12,6 @@ Materials:
  - 1: Motor Shield
  - 1: USB Cable
  - 1: Breadboard
+
+ultrasonic sensor:
+https://www.bananarobotics.com/shop/HC-SR04-Ultrasonic-Distance-Sensor?search=ultrasonic%20sensor
