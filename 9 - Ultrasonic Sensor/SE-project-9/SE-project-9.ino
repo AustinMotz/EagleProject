@@ -20,7 +20,6 @@ int shouldStop = ; // Int value to determine whether to stop the motors or not
 NewPing sonar();
 
 void setup() {
-	pinMode();
 	Serial.begin(115200);
 	pingTimer = millis();
 }
