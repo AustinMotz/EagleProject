@@ -13,5 +13,14 @@ Materials:
  - USB Cable
  - Breadboard
 
+Build:
+
+Take female to male wires and make the connections listed below. The pins are on the back left side.
+
+GND -> GND
+VCC -> 5v
+SDA -> A4
+SCL -> A5
+
 Link to display:
 https://www.amazon.com/FICBOX-Serial-Backlight-Display-Arduino/dp/B071XP6PPT/ref=sr_1_2?ie=UTF8&qid=1502422460&sr=8-2-spons&keywords=arduino+lcd+display&psc=1

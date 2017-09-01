@@ -5,6 +5,12 @@
 // The LCD constructor - address shown is 0x3F - may or may not be correct for yours
 LiquidCrystal_I2C lcd(0x3F, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);  
 
+Connect these pins with male to female wires.
+GND -> GND
+VCC -> 5v
+SDA -> A4
+SCL -> A5
+
 void setup()
 {
   //this initializes the LCD. its arguments are lines and characters. enter in the amount for our screen.
