@@ -1,14 +1,17 @@
 Goals:
-1. Learn how i2C communication works
+1. Turn your display on
 2. Display your name on the LCD
-3. Make the LCD scroll with a for loop
+3. Display the current potentiometer value on the second line of the LCD 
+have it update repeatedly
 
 
 Materials: 
 
  
- 4 - Male to female wires
- 1 - LCD Display
+ - 17 Male to Male Wires
+ - 1 LCD Display
+ - 1 Potentiometer
+
  - Arduino
  - USB Cable
  - Breadboard
